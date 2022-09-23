@@ -1,0 +1,7 @@
+{
+  "name": "sharedTest",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
